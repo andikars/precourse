@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	segitiga(4)
+	segitiga(7)
 }
 
 func segitiga(n int) {
